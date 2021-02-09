@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\c#\Kalitim\bin\Debug\net5.0\Kalitim.exe
+C:\Users\Omer\Desktop\c#\Kalitim\bin\Debug\net5.0\Kalitim.deps.json
+C:\Users\Omer\Desktop\c#\Kalitim\bin\Debug\net5.0\Kalitim.runtimeconfig.json
+C:\Users\Omer\Desktop\c#\Kalitim\bin\Debug\net5.0\Kalitim.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\c#\Kalitim\bin\Debug\net5.0\Kalitim.dll
+C:\Users\Omer\Desktop\c#\Kalitim\bin\Debug\net5.0\ref\Kalitim.dll
+C:\Users\Omer\Desktop\c#\Kalitim\bin\Debug\net5.0\Kalitim.pdb
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.csprojAssemblyReference.cache
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.AssemblyInfo.cs
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.dll
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\ref\Kalitim.dll
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.pdb
+C:\Users\Omer\Desktop\c#\Kalitim\obj\Debug\net5.0\Kalitim.genruntimeconfig.cache

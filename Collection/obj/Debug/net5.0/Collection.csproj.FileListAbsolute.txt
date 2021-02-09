@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\c#\Collection\bin\Debug\net5.0\Collection.exe
+C:\Users\Omer\Desktop\c#\Collection\bin\Debug\net5.0\Collection.deps.json
+C:\Users\Omer\Desktop\c#\Collection\bin\Debug\net5.0\Collection.runtimeconfig.json
+C:\Users\Omer\Desktop\c#\Collection\bin\Debug\net5.0\Collection.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\c#\Collection\bin\Debug\net5.0\Collection.dll
+C:\Users\Omer\Desktop\c#\Collection\bin\Debug\net5.0\ref\Collection.dll
+C:\Users\Omer\Desktop\c#\Collection\bin\Debug\net5.0\Collection.pdb
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.csprojAssemblyReference.cache
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.AssemblyInfo.cs
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.dll
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\ref\Collection.dll
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.pdb
+C:\Users\Omer\Desktop\c#\Collection\obj\Debug\net5.0\Collection.genruntimeconfig.cache

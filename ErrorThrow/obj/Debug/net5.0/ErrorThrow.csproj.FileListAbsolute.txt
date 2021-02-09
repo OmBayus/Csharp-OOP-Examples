@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\c#\ErrorThrow\bin\Debug\net5.0\ErrorThrow.exe
+C:\Users\Omer\Desktop\c#\ErrorThrow\bin\Debug\net5.0\ErrorThrow.deps.json
+C:\Users\Omer\Desktop\c#\ErrorThrow\bin\Debug\net5.0\ErrorThrow.runtimeconfig.json
+C:\Users\Omer\Desktop\c#\ErrorThrow\bin\Debug\net5.0\ErrorThrow.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\c#\ErrorThrow\bin\Debug\net5.0\ErrorThrow.dll
+C:\Users\Omer\Desktop\c#\ErrorThrow\bin\Debug\net5.0\ref\ErrorThrow.dll
+C:\Users\Omer\Desktop\c#\ErrorThrow\bin\Debug\net5.0\ErrorThrow.pdb
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.csprojAssemblyReference.cache
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.AssemblyInfo.cs
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.dll
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ref\ErrorThrow.dll
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.pdb
+C:\Users\Omer\Desktop\c#\ErrorThrow\obj\Debug\net5.0\ErrorThrow.genruntimeconfig.cache

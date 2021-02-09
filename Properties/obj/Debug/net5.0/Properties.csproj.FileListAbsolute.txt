@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\c#\Properties\bin\Debug\net5.0\Properties.exe
+C:\Users\Omer\Desktop\c#\Properties\bin\Debug\net5.0\Properties.deps.json
+C:\Users\Omer\Desktop\c#\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+C:\Users\Omer\Desktop\c#\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\c#\Properties\bin\Debug\net5.0\Properties.dll
+C:\Users\Omer\Desktop\c#\Properties\bin\Debug\net5.0\ref\Properties.dll
+C:\Users\Omer\Desktop\c#\Properties\bin\Debug\net5.0\Properties.pdb
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.csprojAssemblyReference.cache
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.dll
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\ref\Properties.dll
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.pdb
+C:\Users\Omer\Desktop\c#\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache

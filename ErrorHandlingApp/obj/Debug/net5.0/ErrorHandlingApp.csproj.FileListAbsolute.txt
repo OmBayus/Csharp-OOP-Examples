@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.csprojAssemblyReference.cache
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.AssemblyInfo.cs
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\bin\Debug\net5.0\ErrorHandlingApp.exe
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\bin\Debug\net5.0\ErrorHandlingApp.deps.json
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\bin\Debug\net5.0\ErrorHandlingApp.runtimeconfig.json
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\bin\Debug\net5.0\ErrorHandlingApp.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\bin\Debug\net5.0\ErrorHandlingApp.dll
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\bin\Debug\net5.0\ref\ErrorHandlingApp.dll
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\bin\Debug\net5.0\ErrorHandlingApp.pdb
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.dll
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ref\ErrorHandlingApp.dll
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.pdb
+C:\Users\Omer\Desktop\c#\ErrorHandlingApp\obj\Debug\net5.0\ErrorHandlingApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\c#\Dictionary\bin\Debug\net5.0\Dictionary.exe
+C:\Users\Omer\Desktop\c#\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+C:\Users\Omer\Desktop\c#\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+C:\Users\Omer\Desktop\c#\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\c#\Dictionary\bin\Debug\net5.0\Dictionary.dll
+C:\Users\Omer\Desktop\c#\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+C:\Users\Omer\Desktop\c#\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.csprojAssemblyReference.cache
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.dll
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+C:\Users\Omer\Desktop\c#\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache

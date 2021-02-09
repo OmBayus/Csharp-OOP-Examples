@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\c#\Static-App\bin\Debug\net5.0\Static-App.exe
+C:\Users\Omer\Desktop\c#\Static-App\bin\Debug\net5.0\Static-App.deps.json
+C:\Users\Omer\Desktop\c#\Static-App\bin\Debug\net5.0\Static-App.runtimeconfig.json
+C:\Users\Omer\Desktop\c#\Static-App\bin\Debug\net5.0\Static-App.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\c#\Static-App\bin\Debug\net5.0\Static-App.dll
+C:\Users\Omer\Desktop\c#\Static-App\bin\Debug\net5.0\ref\Static-App.dll
+C:\Users\Omer\Desktop\c#\Static-App\bin\Debug\net5.0\Static-App.pdb
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.csprojAssemblyReference.cache
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.AssemblyInfo.cs
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.dll
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\ref\Static-App.dll
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.pdb
+C:\Users\Omer\Desktop\c#\Static-App\obj\Debug\net5.0\Static-App.genruntimeconfig.cache
